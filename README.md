@@ -1,4 +1,5 @@
 # Hi there 👋, I am Fridolin Paiki
+https://img.shields.io/twitter/follow/ff_paiki?style=for-the-badge
 
 <!--
 **ffpaiki/ffpaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
