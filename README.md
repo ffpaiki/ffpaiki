@@ -19,6 +19,10 @@ Several roles that I have been appointed to are:
 - Project Manager
 - Programmer
 - Assistant Professor/Researcher
+
+---
+
+
 <!--
 **ffpaiki/ffpaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
