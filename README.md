@@ -20,6 +20,8 @@ Several roles that I have been appointed to are:
 - Programmer
 - Assistant Professor/Researcher
 
+<a href="https://app.daily.dev/ffpaiki"><img src="https://api.daily.dev/devcards/86d6fc414a8e4886bdb60fc2a13bfcc9.png?r=8q2" width="400" alt="Fridolin Paiki's Dev Card"/></a>
+
 ---
 
 Toolbox
