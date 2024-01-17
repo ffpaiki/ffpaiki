@@ -5,23 +5,19 @@
 I am a Fullstack Developer with more than 10 years of experience using different technologies in multiple industries. My educational background is in computer science and information system. Throughout the years, I've been working in eCommerce, Banking institutions, manufacturing companies, government, and higher education to analyze, develop, and implement many information technologies (IT) solutions in order to support their businesses and their customer.
 
 Technologies Involved:
-- Java
-- Python
-- MVC Framework (Laravel, CodeIgniter, Spring Framework)
-- MERN
-- Data Integration (Pentaho, SSIS)
-- Data Analysis and Business Intelligence (SSAS, SSRS, Pentaho, Oracle BI)
-- Data Management and Administration (SQL Server, MySQL, Oracle)
-- Mobile App Dev (Flutter)
+- Technology:	SQL Server, MySQL, NumPy, Pandas, Scikit-Learn, TensorFlow, Google Cloud, Springboot
+- Programming:	Python, PHP, SQL, Javascript, Java, HTML, CSS
+- Framework:	Laravel, Spring, NextJS
+- Application:	Visual Studio Code, Excel, DataGrip, PyCharm, Pentaho, Adobe CC, SSIS, SSRS, Tableau
+- Data Science: 	Statistical Analysis, Data Modeling, Data Visualization, Machine Learning
+  
+![image](https://github.com/ffpaiki/ffpaiki/assets/74241058/c9b01a9d-f5c7-4d53-b1a5-84086f965729)
+
 
 Several roles that I have been appointed to are:
-- Business Analyst
 - Project Manager
-- Programmer
-- Assistant Professor/Researcher
-
-<a href="https://app.daily.dev/ffpaiki"><img src="https://api.daily.dev/devcards/86d6fc414a8e4886bdb60fc2a13bfcc9.png?r=8q2" width="400" alt="Fridolin Paiki's Dev Card"/></a>
-
+- Software Developer
+- Data Analyst
 ---
 
 Toolbox
@@ -44,27 +40,3 @@ Toolbox
 </div>
 
 ---
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffpaiki&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![FFPaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffpaiki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**ffpaiki/ffpaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
