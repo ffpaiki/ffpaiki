@@ -2,7 +2,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ff_paiki?style=for-the-badge)
 
-I am a Fullstack Developer with more than 10 years of experience using different technologies in multiple industries. My educational background is in computer science and information system. Throughout the years, I've been working in eCommerce, Banking institutions, manufacturing companies, government, and higher education to analyze, develop, and implement many information technologies (IT) solutions in order to support their businesses and their customer.
+Highly skilled and results-oriented software developer and data analyst with 10+ years of experience building and analyzing data-driven software solutions. Adept at full-stack development, data cleansing and wrangling, building machine learning models, and translating insights into actionable business decisions. Eager to leverage expertise in machine learning to solve complex problems and drive innovation.
+
 
 Technologies Involved:
 - Technology:	SQL Server, MySQL, NumPy, Pandas, Scikit-Learn, TensorFlow, Google Cloud, Springboot
@@ -10,8 +11,7 @@ Technologies Involved:
 - Framework:	Laravel, Spring, NextJS
 - Application:	Visual Studio Code, Excel, DataGrip, PyCharm, Pentaho, Adobe CC, SSIS, SSRS, Tableau
 - Data Science: 	Statistical Analysis, Data Modeling, Data Visualization, Machine Learning
-  
-![image](https://github.com/ffpaiki/ffpaiki/assets/74241058/c9b01a9d-f5c7-4d53-b1a5-84086f965729)
+
 
 
 Several roles that I have been appointed to are:
