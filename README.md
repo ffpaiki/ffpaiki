@@ -31,7 +31,6 @@ Toolbox
 <img src="https://user-images.githubusercontent.com/74241058/114700739-d7529e00-9d5c-11eb-9ee8-f0c0ff229e53.png" width="50"></img>
 <img src="https://user-images.githubusercontent.com/74241058/114700793-e9344100-9d5c-11eb-81b7-1f5e39007735.png" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/laravel/laravel-plain.svg" width="50"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mongodb/mongodb-original.svg" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" width="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/typescript/typescript-plain.svg" width="50"></img>
