@@ -1,7 +1,5 @@
 # Hi there 👋, I am Fridolin Paiki
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ff_paiki?style=for-the-badge)
-
 Highly skilled and results-oriented software developer and data analyst with 10+ years of experience building and analyzing data-driven software solutions. Adept at full-stack development, data cleansing and wrangling, building machine learning models, and translating insights into actionable business decisions. Eager to leverage expertise in machine learning to solve complex problems and drive innovation.
 
 
